@@ -40,7 +40,7 @@ Asegúrate de tener instalado:
 - **Postman** o **Newman CLI** (para pruebas de API)
 
 ### 2. Clonar el repositorio
-```bash
+bash
 git clone https://github.com/TU_USUARIO/tu-repo.git
 cd tu-repo
 
